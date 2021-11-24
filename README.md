@@ -10,7 +10,7 @@
 
   ![image](https://user-images.githubusercontent.com/74129445/143231420-e505b6a3-e1f8-4ba2-86f6-3fdf82810f1e.png)  
   
-  很明显，在中间的几步是相似的，所以说，Java的类就相当于是对Java函数体的一个包装，没什么别的意思，就是为了在加载的时候区分一下，知道这是要找的那个地方。
+  很明显，在中间的几步是相似的，所以说，Java的类就相当于是对Java函数体的一个包装，没什么别的意思，就是为了在加载的时候区分一下，知道这是要找的那个地方，是一个文件名。
   
 
 参考：https://www.cnblogs.com/WangXianSCU/p/15316732.html
