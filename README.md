@@ -7,12 +7,12 @@
 
 继承有两种类型，生一个，生多个  
 
-生一个：extends  
+一生多：extends  
 
 ![image](https://user-images.githubusercontent.com/74129445/143682727-c482a75b-fdee-48fc-a14d-244291162d28.png)  
 ![image](https://user-images.githubusercontent.com/74129445/143687617-2a9611e7-354e-4e67-9ed7-4e2d742dbbc1.png)  
 
-生多个：implements  
+多生一：implements  
 
 ![image](https://user-images.githubusercontent.com/74129445/143687675-43303b47-bcb5-4cf2-988e-7a817a3f2797.png)  
 ![image](https://user-images.githubusercontent.com/74129445/143687683-813400c7-baca-4716-9a41-f0cc5bce6f70.png)  
