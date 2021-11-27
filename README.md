@@ -9,12 +9,14 @@
 
 一生多：extends  
 
-![image](https://user-images.githubusercontent.com/74129445/143682727-c482a75b-fdee-48fc-a14d-244291162d28.png)  
+![image](https://user-images.githubusercontent.com/74129445/143687675-43303b47-bcb5-4cf2-988e-7a817a3f2797.png)  
+
 ![image](https://user-images.githubusercontent.com/74129445/143687617-2a9611e7-354e-4e67-9ed7-4e2d742dbbc1.png)  
 
 多生一：implements  
+![image](https://user-images.githubusercontent.com/74129445/143688695-37f07462-4177-46c6-92c8-f19eab4e59a9.png)  
 
-![image](https://user-images.githubusercontent.com/74129445/143687675-43303b47-bcb5-4cf2-988e-7a817a3f2797.png)  
+
 ![image](https://user-images.githubusercontent.com/74129445/143687683-813400c7-baca-4716-9a41-f0cc5bce6f70.png)  
 
 
