@@ -2,7 +2,7 @@
 
   那么，c++是如何定义类的呢？我找到一篇[极好的文章](https://bbs.pediy.com/thread-269611.htm)来理解，这个文章的汇编不仅可以用来学c++，同样也是可以用来对照学java  
   
-  文中指出，c++的类和结构体十分类似，区别只在于类的变量有private修饰，那么private是干什么用的呢？  
+  文中指出，c++的类和结构体十分类似([c++与C语言结构体不同](https://github.com/ccfisme/problem-of-C/blob/%E4%B8%BA%E4%BB%80%E4%B9%88c++%E7%BB%93%E6%9E%84%E4%BD%93%E8%83%BD%E6%94%BE%E5%87%BD%E6%95%B0C%E8%AF%AD%E8%A8%80%E4%B8%8D%E8%A1%8C%EF%BC%9F/README.md) )，区别只在于类的变量有private修饰，那么private是干什么用的呢？  
   
   一开始我以为是某种含有指针的结构体，后来发现，private在编译时根本没在汇编中体现，这是一个说明符，告诉编译器只知道类里面变量名字的不能访问，得知道地址才能访问，而在java里面，是通过三种方法访问。构造函数、set函数、get函数。  
   
