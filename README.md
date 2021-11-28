@@ -1,6 +1,6 @@
 ## 类似`@RestController`这种东西什么意思？pom.xml文件又是干啥的？  
 
-首先，我对两者进行查询，发现它们有一个共同的特点，就是都是[元数据](https://www.zhihu.com/question/20679872)（装逼词语，不用管）,作用是用pom.xml文件对用到的jar包（java代码压缩文件）进行版本统计并导入，后面用到这些jar包的时候就用@来初始化，这是一个spring执行后的首要任务，即先看@    
+首先，我对两者进行查询，发现它们有一个共同的特点，就是都是[元数据](https://www.zhihu.com/question/20679872)（装逼词语，不用管）,作用是用pom.xml文件对用到的jar包（java代码压缩文件）进行版本统计、导入jar包，后面用到这些jar包的时候就用@来初始化，这是一个spring执行后的首要任务，即先看@    
 
 
 ![image](https://user-images.githubusercontent.com/74129445/143768012-6d7d7d58-8899-48df-a8e7-b53c06827c04.png)  
