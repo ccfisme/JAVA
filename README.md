@@ -2,6 +2,10 @@
 
 首先，我对两者进行查询，发现它们有一个共同的特点，就是都是[元数据](https://www.zhihu.com/question/20679872)（装逼词语，不用管）,作用是用pom.xml文件对用到的jar包（java代码压缩文件）进行版本统计、导入jar包，后面用到这些jar包的时候就用@来初始化，这是一个spring执行后的首要任务，即先看@    
 
+而"位于resources目录下的.properties文件与@的关系"与"pom.xml文件和@的关系"很类似，区别只是.properties文件是配置类内属性的，然后用@注入属性；.yaml文件是.properties文件的浓缩版，更简洁；.xml文件之前也可以配置文件，后面可能解耦合了，就把这个功能删了。  
+
+
+
 
 ![image](https://user-images.githubusercontent.com/74129445/143768012-6d7d7d58-8899-48df-a8e7-b53c06827c04.png)  
 
