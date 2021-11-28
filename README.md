@@ -15,4 +15,7 @@
 
 [Java注解之运行时注解](https://juejin.cn/post/6844903879524483085)  
 
-[spring boot配置详解](https://blog.csdn.net/achenyuan/article/details/79912744)
+[spring boot配置详解](https://blog.csdn.net/achenyuan/article/details/79912744)  
+
+主要参考：  
+[看完所有的之后再看就会豁然开朗](https://juejin.cn/post/6844903841972879373)
