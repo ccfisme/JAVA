@@ -16,7 +16,7 @@
 ![image](https://user-images.githubusercontent.com/74129445/143768012-6d7d7d58-8899-48df-a8e7-b53c06827c04.png)  
 
 
-参考：  
+参考文章：  
 [Spring注解配置和xml配置优缺点比较](https://cloud.tencent.com/developer/article/1592029)  
 
 [注解与依赖注入](https://blog.csdn.net/u012070360/article/details/76358512)  
@@ -31,5 +31,9 @@
 
 [spring boot配置详解](https://blog.csdn.net/achenyuan/article/details/79912744)  
 
-主要参考：  
-[看完所有的之后再看就会豁然开朗](https://juejin.cn/post/6844903841972879373)
+主要参考文章：  
+[看完所有的之后再看就会豁然开朗](https://juejin.cn/post/6844903841972879373)  
+
+参考视频:  
+[什么是注解和反射](https://www.bilibili.com/video/BV1p4411P7V3?p=2&spm_id_from=pageDriver)  
+[spring框架](https://www.bilibili.com/video/BV1nz4y1d7uy?p=9&spm_id_from=pageDriver)
