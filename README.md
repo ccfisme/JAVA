@@ -1,5 +1,1 @@
-
-学原理对照c++  
-
-学设计对照数据库设计
-底层原理讲解视频：https://www.bilibili.com/video/BV1p4411P7V3?p=6&spm_id_from=pageDriver
+![IMG_20211130_222847](https://user-images.githubusercontent.com/74129445/144066020-e7362bef-1021-4890-b7f3-07a27c220c2c.jpg)
