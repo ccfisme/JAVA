@@ -13,6 +13,10 @@
 
 ![image](https://user-images.githubusercontent.com/74129445/144100517-eb2e33d4-7e43-455f-ac5b-c873c217b2ed.png)  
 
-4.从.xml中的bean找到对象
+4.从.xml中的bean找到对象  
+
+![image](https://user-images.githubusercontent.com/74129445/144101197-cdde972a-37d5-4cc5-8891-1d3c25e7c560.png)   
+
+5.使用对象调用函数
 
 
