@@ -3,7 +3,7 @@
 ![IMG_20211201_013531](https://user-images.githubusercontent.com/74129445/144098647-2a0f65d1-210e-4d68-b82c-941e1e28f511.jpg)
 
 
-### 例：@component（创建容器），等同于bean标签  
+### 例：@component（创建对象），等同于bean标签  
 
 1.写类，类里面加注解
 
@@ -34,8 +34,7 @@
   ![image](https://user-images.githubusercontent.com/74129445/144433742-cfed69a0-abf7-4962-9e45-0b0c97de47ef.png)  
 ### @autowired（找容器里的所有的值）  
 
-![image](https://user-images.githubusercontent.com/74129445/144436282-52e02d09-dc2f-4740-b68d-5420577dc01e.png)
-
+![image](https://user-images.githubusercontent.com/74129445/144436871-3bcccabd-8f05-4c3e-827f-0dffe4d67584.png)
 
 
 
