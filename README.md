@@ -38,5 +38,7 @@
 
 ### [@Requestmapping](https://blog.csdn.net/renanrenan/article/details/84654362/)  
 
-### [@Rusource](https://blog.csdn.net/weixin_38237873/article/details/83650429)
+### [@Rusource](https://blog.csdn.net/weixin_38237873/article/details/83650429)  
+
+### [@RequestParam](https://www.cnblogs.com/zhlblogs/p/9553491.html)
 
